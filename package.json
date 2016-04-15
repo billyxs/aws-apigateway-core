@@ -1,0 +1,15 @@
+{
+  "name": "api-gateway-core",
+  "version": "0.0.0",
+  "description": "AWS API Gateway Core with URL Template for Node, to support your API Gateway Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy Montgomery",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "crypto-js": "^3.1.6"
+  }
+}
